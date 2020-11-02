@@ -1,3 +1,6 @@
+*.spvchain
+*.wallet
+
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
